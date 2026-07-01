@@ -1,7 +1,8 @@
 # Refrigerator Circuit Components
 
-##Circuit
+## Circuit
 (https://github.com/AnujGavhane/MBSE_Refrigerator_System_Modeling/blob/main/Circuit_Study/Refrigerator_Circuit_Diagram.jpeg)
+
 ## Thermostat
 
 The thermostat senses the refrigerator's internal temperature and automatically switches the compressor ON or OFF to maintain the user-selected cooling level.
